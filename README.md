@@ -11,11 +11,11 @@ The problem consists in assignment of the aircrew (air hostesses and stewards) t
 • There are 10 flights.
 • Number of employees assigned to each flight is fixed:
 
-!(images/1.png)
+![](images/1.png)
 
 • Aircrew of each flight should include at least a certain number of air hostesses and stewards:
 
-!(images/2.png)
+![](images/2.png)
 
 • Aircrew of each flight should include at least one person who speaks french, at least one person who speaks spanish, and at least one person who speaks german. Knowledge of languages :
 
