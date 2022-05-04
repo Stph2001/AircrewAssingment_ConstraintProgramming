@@ -4,21 +4,18 @@ Aircrew assignment
 
 The problem consists in assignment of the aircrew (air hostesses and stewards) to flights of an air company.
 
-• There are 20 employees.
-– Stewards : Tom, David, Jeremy, Ron, Joe, Bill,Fred, Bob, Mario, Ed
+• There are 20 employees.<br>
+– Stewards : Tom, David, Jeremy, Ron, Joe, Bill,Fred, Bob, Mario, Ed<br>
 – air hostesses : Carol, Janet, Tracy, Marilyn, Carolyn, Cathy, Inez, Jean, Heather, Juliet.
 
 • There are 10 flights.
 • Number of employees assigned to each flight is fixed:
 
-Flight number 1 2 3 4 5 6 7 8 9 10
-Aircrew number 4 5 5 6 7 4 5 6 6 7
+!(images/1.png)
 
 • Aircrew of each flight should include at least a certain number of air hostesses and stewards:
 
-Flight number 1 2 3 4 5 6 7 8 9 10
-Min. number of are hostesses 1 1 1 2 3 1 1 1 2 3
-Min. number of stewards 1 1 1 2 3 1 1 1 2 3
+!(images/2.png)
 
 • Aircrew of each flight should include at least one person who speaks french, at least one person who speaks spanish, and at least one person who speaks german. Knowledge of languages :
 
