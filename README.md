@@ -19,11 +19,10 @@ The problem consists in assignment of the aircrew (air hostesses and stewards) t
 
 • Aircrew of each flight should include at least one person who speaks french, at least one person who speaks spanish, and at least one person who speaks german. Knowledge of languages :
 
-Francais Inez, Bill, Jean, Juliet
-Espagnol Tom, Jeremy, Mario, Cathy, Juliet
-Allemand Bill, Fred, Joe, Mario, Marilyn, Inez, Heather
+Francais: Inez, Bill, Jean, Juliet<br>
+Espagnol: Tom, Jeremy, Mario, Cathy, Juliet<br>
+Allemand: Bill, Fred, Joe, Mario, Marilyn, Inez, Heather<br>
 
 • If we assign somebody to a flight, we cannot assign him (or her) to two following flights.
 
-Project aim. Model this problem as a CSP and solve it using a solver of your
-choice. Try to use more global constraints.
+Project aim. Model this problem as a CSP and solve it using a solver of your choice. Try to use more global constraints.
